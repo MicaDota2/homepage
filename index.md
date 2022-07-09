@@ -17,7 +17,7 @@ published: true
     <td width="33%"><h4>第一届 云母Minor</h4></td>
   </tr>
   <tr>    
-    <td align="center"><img src="./img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B%E5%BF%AB%E6%9D%A5%E4%BA%86.jpg"></td>
+    <td align="center"><img src="./img/inpost/202107/main_page/zbfm_结果.png"></td>
     <td align="center"><img src="./img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B.jpg"></td>
     <td align="center"><img src="./img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DMINOR.jpg"> </td>
   </tr> 
@@ -49,6 +49,7 @@ published: true
 </td>
 </tr>
 </table>
+
 
 
 
@@ -86,4 +87,3 @@ published: true
 |卫士| 中军 | 超凡入圣 | 中军 | |
 
 <hr>
-
